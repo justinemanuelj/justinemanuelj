@@ -1,6 +1,6 @@
 ## <img src="/Images/SOC.png" width="20" height="20"> SOC & SIEM Projects
 
-**[Live SOC Monitoring & Incident Response Lab <img src="./Images/shield.png" width="17" height="17" style="vertical-align: -6px;">](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**
+**[Live SOC Monitoring & Incident Response Lab <img src="./Images/shield.png" width="27" height="27" style="vertical-align: -6px;">](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**
 <br>
 ![SOC](https://img.shields.io/badge/SOC-Operations-blue?style=for-the-badge)
 ![IR](https://img.shields.io/badge/Incident_Response-Active-red?style=for-the-badge)
