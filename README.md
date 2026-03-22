@@ -21,7 +21,7 @@ Deployed and configured IBM QRadar in a simulated enterprise environment. Built 
 
 ---
 
-**[Splunk SIEM Implementation & Dashboard Development <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/Splunk-SIEM-Implementation-Dashboard-Development)**  
+**<img src="/Images/chart.png" width="12" height="12">[Splunk SIEM Implementation & Dashboard Development](https://github.com/justinemanuelj/Splunk-SIEM-Implementation-Dashboard-Development)**  
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)
 ![SPL](https://img.shields.io/badge/SPL-Queries-green?style=for-the-badge)
 
