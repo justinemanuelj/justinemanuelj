@@ -1,6 +1,6 @@
 ## <img src="/Images/SOC.png" width="30" height="30"> SOC & SIEM Projects
 
-- **[Live SOC Monitoring & Incident Response Lab <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**  
+**[Live SOC Monitoring & Incident Response Lab <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**  
 ![SOC](https://img.shields.io/badge/SOC-Operations-blue?style=for-the-badge)
 ![IR](https://img.shields.io/badge/Incident_Response-Active-red?style=for-the-badge)
 
@@ -10,7 +10,7 @@ Simulated a live SOC environment by monitoring real-time alerts, triaging incide
 
 ---
 
-- [SIEM Deployment & Detection Engineering (IBM QRadar) <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/SIEM-Deployment-Detection-Engineering-IBM-QRadar-)
+**[SIEM Deployment & Detection Engineering (IBM QRadar) <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/SIEM-Deployment-Detection-Engineering-IBM-QRadar-)**  
 ![QRadar](https://img.shields.io/badge/IBM-QRadar-blue?style=for-the-badge&logo=ibm)
 ![SIEM](https://img.shields.io/badge/SIEM-Detection_Engineering-black?style=for-the-badge)
 
@@ -20,7 +20,7 @@ Deployed and configured IBM QRadar in a simulated enterprise environment. Built 
 
 ---
 
-- **[Splunk SIEM Implementation & Dashboard Development <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/Splunk-SIEM-Implementation-Dashboard-Development)**  
+**[Splunk SIEM Implementation & Dashboard Development <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/Splunk-SIEM-Implementation-Dashboard-Development)**  
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)
 ![SPL](https://img.shields.io/badge/SPL-Queries-green?style=for-the-badge)
 
@@ -30,7 +30,7 @@ Implemented a Splunk SIEM environment and developed dashboards to visualize secu
 
 ---
 
-- **[Wazuh Deployment & Threat Detection Lab <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/Wazuh-Deployment-Threat-Detection-Lab)**  
+**[Wazuh Deployment & Threat Detection Lab <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/Wazuh-Deployment-Threat-Detection-Lab)**  
 ![Wazuh](https://img.shields.io/badge/Wazuh-HIDS-blue?style=for-the-badge)
 ![FIM](https://img.shields.io/badge/File_Integrity-Monitoring-orange?style=for-the-badge)
 
@@ -40,7 +40,7 @@ Deployed Wazuh for host-based intrusion detection and centralized logging. Confi
 
 ---
 
-- **[SOAR Automation & Incident Response Workflow (TheHive) <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/SOAR-Automation-Incident-Response-Workflow-TheHive-)**  
+**[SOAR Automation & Incident Response Workflow (TheHive) <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/SOAR-Automation-Incident-Response-Workflow-TheHive-)**  
 ![SOAR](https://img.shields.io/badge/SOAR-Automation-purple?style=for-the-badge)
 ![TheHive](https://img.shields.io/badge/TheHive-Incident_Response-yellow?style=for-the-badge)
 
