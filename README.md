@@ -51,7 +51,7 @@ Built and executed incident response workflows using TheHive. Automated case man
 
 ---
 
-## <img src="/Images/Certs.png" width="30" height="30"> Certifications
+## <img src="/Images/Cert-removebg-preview.png" width="20" height="20"> Certifications
 
 **[CompTIA ITF+](https://placeholder-url.com)**  
 **[CompTIA A+](https://placeholder-url.com)**  
@@ -60,7 +60,7 @@ Built and executed incident response workflows using TheHive. Automated case man
 
 ---
 
-## <img src="/Images/Skills.png"  width="30" height="30"> Skills & Technologies
+## <img src="/Images/Skills-removebg-preview.png"  width="20" height="20"> Skills & Technologies
 
 - **SOC Operations & Monitoring**  
 - **Incident Response Lifecycle**  
@@ -77,6 +77,6 @@ Built and executed incident response workflows using TheHive. Automated case man
 
 ---
 
-## <img src="/Images/ContactIcon.png"  width="30" height="30"> Connect With Me
+## <img src="/Images/Mail-removebg-preview.png  width="20" height="20"> Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JustinThePatchNotes/)
