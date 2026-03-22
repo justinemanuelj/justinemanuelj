@@ -10,7 +10,7 @@ Simulated a live SOC environment by monitoring real-time alerts, triaging incide
 
 ---
 
-- **[SIEM Deployment & Detection Engineering (IBM QRadar) <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/SIEM-Deployment-Detection-Engineering-IBM-QRadar-)**  
+- [SIEM Deployment & Detection Engineering (IBM QRadar) <img src="/Images/SOC.png" width="17" height="17">](https://github.com/justinemanuelj/SIEM-Deployment-Detection-Engineering-IBM-QRadar-)
 ![QRadar](https://img.shields.io/badge/IBM-QRadar-blue?style=for-the-badge&logo=ibm)
 ![SIEM](https://img.shields.io/badge/SIEM-Detection_Engineering-black?style=for-the-badge)
 
