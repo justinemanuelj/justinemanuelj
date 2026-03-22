@@ -51,7 +51,7 @@ Built and executed incident response workflows using TheHive. Automated case man
 
 ---
 
-## <img src="/Images/Cert-removebg-preview.png" width="20" height="20"> Certifications
+## <img src="/Images/Cert-removebg-preview.png" width="17" height="17"> Certifications
 
 **[CompTIA ITF+](https://placeholder-url.com)**  
 **[CompTIA A+](https://placeholder-url.com)**  
