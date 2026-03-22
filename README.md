@@ -1,4 +1,4 @@
-## <img src="/Images/SOC.png" width="20" height="20"> SOC & SIEM Projects
+## <img src="/Images/shield.png" width="20" height="20"> SOC & SIEM Projects
 
 **[Live SOC Monitoring & Incident Response Lab <img src="./Images/shield.png" width="15" height="15" style="vertical-align: -6px;">](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**
 <br>
