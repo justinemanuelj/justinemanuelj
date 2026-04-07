@@ -57,6 +57,7 @@ Built and executed incident response workflows using TheHive. Automated case man
 **[CompTIA A+](https://placeholder-url.com)**  
 **[CompTIA Network+](https://placeholder-url.com)**  
 **[CompTIA Security+](https://placeholder-url.com)**  
+**[Microsoft Certified: Azure Fundamentals (AZ-900)](https://placeholder-url.com)**  
 
 ---
 
