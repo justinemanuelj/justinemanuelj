@@ -1,4 +1,4 @@
-## <img src="/Images/Shield_2-removebg-preview.png" width="20" height="20"> SOC & SIEM Projects
+##SOC & SIEM Projects
 
 **[Live SOC Monitoring & Incident Response Lab](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**  
 <br>
@@ -51,7 +51,7 @@ Built and executed incident response workflows using TheHive. Automated case man
 
 ---
 
-## <img src="/Images/Cert-removebg-preview.png" width="17" height="17"> Certifications
+##Certifications
 
 **[CompTIA ITF+](https://placeholder-url.com)**  
 **[CompTIA A+](https://placeholder-url.com)**  
@@ -61,7 +61,7 @@ Built and executed incident response workflows using TheHive. Automated case man
 
 ---
 
-## <img src="/Images/Skills-removebg-preview.png"  width="17" height="17"> Skills & Technologies
+##Skills & Technologies
 
 - **SOC Operations & Monitoring**  
 - **Incident Response Lifecycle**  
@@ -78,6 +78,6 @@ Built and executed incident response workflows using TheHive. Automated case man
 
 ---
 
-## <img src="/Images/Mail-removebg-preview.png"  width="17" height="17"> Connect With Me
+##Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JustinThePatchNotes/)
