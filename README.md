@@ -1,8 +1,10 @@
+# Hi, I'm Justin Jones
+**SOC Analyst | Security Operations | Threat Detection & Response | Blue Team**
+
 ## What I Work With
+`Linux` `Active Directory` `Sysmon` `Wireshark` `Sigma` `MITRE ATT&CK` `KQL` `Python` `MITRE ATT&CK` `KQL` `Python`
 
-`Linux` `Active Directory` `Wireshark` `Sysmon` `Sigma` `MITRE ATT&CK` `KQL` `Python`
 ## SOC & SIEM Projects
-
 **[Live SOC Monitoring & Incident Response Lab](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**  
 <br>
 ![SOC](https://img.shields.io/badge/SOC-Operations-blue?style=for-the-badge)
