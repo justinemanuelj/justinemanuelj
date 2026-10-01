@@ -1,3 +1,6 @@
+## What I Work With
+
+`Linux` `Active Directory` `Wireshark` `Sysmon` `Sigma` `MITRE ATT&CK` `KQL` `Python`
 ## SOC & SIEM Projects
 
 **[Live SOC Monitoring & Incident Response Lab](https://github.com/justinemanuelj/Live-SOC-Monitoring-Incident-Response-Lab)**  
